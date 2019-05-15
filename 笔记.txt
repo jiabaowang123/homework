@@ -17,4 +17,7 @@ git rm --cachedgit index.html //从队列中移除文件
 git add *.html //上传一类文件
 git add .      //上传所有文件
 
+git commit //提交
+
+备注 esc : wq 退出
 
