@@ -1,0 +1,20 @@
+git init    // 初始化本地git仓库
+git add     // 添加文件
+git status  // 查看状态
+git commit  // 提交
+git push    // 推送到仓库
+git pull    // 从远程仓库拉取
+git clone   // 从远处仓库拷贝
+clear       // 清除
+
+touch index.html //创建html
+git config --global user.name 'Wangjiabao'  //注册姓名 邮箱
+git config --global user.emain '18611809421@163.com'
+
+git add index.html //添加文件到队列
+git rm --cachedgit index.html //从队列中移除文件
+
+git add *.html //上传一类文件
+git add .      //上传所有文件
+
+
