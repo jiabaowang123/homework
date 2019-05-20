@@ -8,6 +8,10 @@
 	git clone   // 从远处仓库拷贝
 	clear       // 清除
 
+	git branch 'name' //创建分支
+	git checkout 'name' //切换到分支
+	git checkout master //切换到主线
+
 文件上传：
 	touch index.html //创建html
 	git config --global user.name 'Wangjiabao'  //注册姓名 邮箱
@@ -28,3 +32,24 @@
 忽略不想上传的文件
 	touch .gitignore
 	将文件名/文件夹加入内部
+	git branch ‘name’//创建分支
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
