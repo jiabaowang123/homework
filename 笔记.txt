@@ -10,6 +10,7 @@
 
 	git branch 'name' //创建分支
 	git checkout 'name' //切换到分支
+	git checkout master //切换到主线
 
 文件上传：
 	touch index.html //创建html
@@ -32,7 +33,7 @@
 	touch .gitignore
 	将文件名/文件夹加入内部
 	git branch ‘name’//创建分支
-
+	
 
 
 
