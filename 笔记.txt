@@ -32,14 +32,21 @@
 忽略不想上传的文件
 	touch .gitignore
 	将文件名/文件夹加入内部
-	git branch ‘name’//创建分支
+
+分支操作
 	
+	git branch ‘name’//创建分支
+	git checkout 'name' //切换分支
+	git checkout master //切换主线
+	在master下 使用git merge 'name' //将分支合并到主线
 
 
+将本地上传到github （远程链接）
+	注册 登陆
+	new pepository //创建一个仓库
+	按照操作将本地同步到仓库
 
-
-
-
+	git remote //查看有没有仓库地址
 
 
 
